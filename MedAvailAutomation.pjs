@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{01AB3194-7951-4C65-A4F8-3B11A8ED78F3}">
+	<children>
+		<child name="InventoryUI" key="{8E7E4E2E-3084-40DB-8A6C-72C36F204FB0}" path="..\Framework\InventoryUI\InventoryUI.mds" />
+	</children>
+	<testItems key="{5A8BB264-B34F-4E31-85EA-04193A803649}">
+		<children>
+			<testItem key="{8E7E4E2E-3084-40DB-8A6C-72C36F204FB0}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{EC66E5BC-8195-4C36-A218-F9D24164CC03}" />
+	<analysis key="{0D62BC09-18A8-4CD6-A143-8D396FCFAFDF}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
